@@ -1,10 +1,10 @@
 # Exercícios: Background, Float e Displays
 
-1- Crie uma página baseado no layout abaixo:
+1- Crie uma página baseado no layout abaixo:<br>
 **Imagens:**
 [https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Werner_Haberkorn_-*Parcial_do_Anhangaba%C3%BA*-*S%C3%A3o_Paulo*-*Brasil.jpg/500px-Werner_Haberkorn*-
 *Parcial_do_Anhangaba%C3%BA*-*S%C3%A3o_Paulo*-_Brasil.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Werner_Haberkorn_-_Parcial_do_Anhangaba%C3%BA_-_S%C3%A3o_Paulo_-_Brasil.jpg/500px-Werner_Haberkorn_-_Parcial_do_Anhangaba%C3%BA_-_S%C3%A3o_Paulo_-_Brasil.jpg)
-[https://telepadi.folha.uol.com.br/wp-content/uploads/2020/01/o-auto-da-compadecida-1140x545.jpg](https://telepadi.folha.uol.com.br/wp-content/uploads/2020/01/o-auto-da-compadecida-1140x545.jpg)
+[https://telepadi.folha.uol.com.br/wp-content/uploads/2020/01/o-auto-da-compadecida-1140x545.jpg](https://telepadi.folha.uol.com.br/wp-content/uploads/2020/01/o-auto-da-compadecida-1140x545.jpg)<br>
 **logo:** [https://studioparkgr.com/images/default-source/logos/celebration.png?sfvrsn=a990cfe2_2](https://studioparkgr.com/images/default-source/logos/celebration.png?sfvrsn=a990cfe2_2)
 
 ![Untitled](img/Untitled.png)
@@ -12,7 +12,7 @@
 **Header:** background-color #000000; **Main:** 1140px;
 **h2:** Roboto 30px color: #FF0101; **Footer:** background-color #FF0101;
 
-2- Crie uma página baseado no layout abaixo:
+2- Crie uma página baseado no layout abaixo:<br>
 
 ![Untitled](img/Untitled1.png)
 
@@ -32,7 +32,7 @@
 
 **Botão cadastrar:** 109px X 39px color: #8458FF
 
-3- Crie uma página baseado no layout abaixo:
+3- Crie uma página baseado no layout abaixo:<br>
 **Imagem**:
 [https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Gisele_Bundchen_2018_clear_original_(cropped
 %29.jpg/300px-Gisele_Bundchen_2018_clear_original_%28cropped%29.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Gisele_Bundchen_2018_clear_original_%28cropped%29.jpg/300px-Gisele_Bundchen_2018_clear_original_%28cropped%29.jpg)
@@ -47,7 +47,7 @@
 **Input:** 1110px X 38px
 **Textarea:** 1110 X150px
 
-4- Crie uma página baseado no layout abaixo:
+4- Crie uma página baseado no layout abaixo:<br>
 **Imagens:**
 [https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Marie-Antoinette%3B_koningin_der_Fransen.jpg/390px-Marie-Antoinette%3B_koningin_der_Fransen.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Marie-Antoinette%3B_koningin_der_Fransen.jpg/390px-Marie-Antoinette%3B_koningin_der_Fransen.jpg)
 
@@ -62,8 +62,8 @@
 **Texto Arte:** Roboto 14px color: #6C6969 largura:650px
 **h1:** Roboto 36px color: #660027
 
-5- Crie uma página baseado no layout abaixo:
-**Imagens:**
+5- Crie uma página baseado no layout abaixo:<br>
+**Imagens:**<br>
 **logo:** [https://studioparkgr.com/images/default-source/logos/celebration.png?sfvrsn=a990cfe2_2](https://studioparkgr.com/images/default-source/logos/celebration.png?sfvrsn=a990cfe2_2)
 
 [https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Troy_Teresa_Kunegunda_Sobieska.jpg/390px-Troy_Teresa_Kunegunda_Sobieska.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Troy_Teresa_Kunegunda_Sobieska.jpg/390px-Troy_Teresa_Kunegunda_Sobieska.jpg)
