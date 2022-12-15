@@ -4,7 +4,7 @@
 **Imagem:**
 [https//uploads.onsize.com.br/cndl/varejosa/2021/12/10081900/shutterstock_1074517280_menor-2-1140x450.jpg](https://uploads.onsize.com.br/cndl/varejosa/2021/12/10081900/shutterstock_1074517280_menor-2-1140x450.jpg)
 
-![Untitled](Exerci%CC%81cios%20Body%20e%20Divs%208f1033e7fe4747db8c22a95488733a2d/Untitled.png)
+![Untitled](img/Untitled.png)
 
 **body:** **1140px;
 ***Fonte:*** Roboto 24px;
@@ -14,7 +14,7 @@
 **Imagem:**
 [https://uploads.onsize.com.br/cndl/varejosa/2021/09/14184419/shutterstock_1962599848_viagem_mala1140x528.jpg](https://uploads.onsize.com.br/cndl/varejosa/2021/09/14184419/shutterstock_1962599848_viagem_mala1140x528.jpg)
 
-![Untitled](Exerci%CC%81cios%20Body%20e%20Divs%208f1033e7fe4747db8c22a95488733a2d/Untitled%201.png)
+![Untitled](img/Untitled1.png)
 
 **body:** 1140px;
 **Fonte:** Roboto 24px;
@@ -24,7 +24,7 @@
 **Imagem:**
 [https://www.echo.net.au/wp-content/uploads/2020/11/Chupacabra-1200px.jpg](https://www.echo.net.au/wp-content/uploads/2020/11/Chupacabra-1200px.jpg)
 
-![Untitled](Exerci%CC%81cios%20Body%20e%20Divs%208f1033e7fe4747db8c22a95488733a2d/Untitled%202.png)
+![Untitled](img/Untitled2.png)
 
 **body:** 1200px;
 **Parágrafo 1:** Roboto 24px; **Parágrafo 2:** QuickSand 18px;
@@ -34,7 +34,7 @@
 **Imagem:**
 [https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/CreativeLive_Logo_2014.jpg/1200pxCreativeLive_Logo_2014.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/CreativeLive_Logo_2014.jpg/1200pxCreativeLive_Logo_2014.jpg)
 
-![Untitled](Exerci%CC%81cios%20Body%20e%20Divs%208f1033e7fe4747db8c22a95488733a2d/Untitled%203.png)
+![Untitled](img/Untitled3.png)
 
 **body:** 1200px;
 
@@ -42,21 +42,21 @@
 
 **Fonte serifada cores:**
 
-![Untitled](Exerci%CC%81cios%20Body%20e%20Divs%208f1033e7fe4747db8c22a95488733a2d/Untitled%204.png)
+![Untitled](img/Untitled4.png)
 
 **Fonte sem serifa cores:**
 
-![Untitled](Exerci%CC%81cios%20Body%20e%20Divs%208f1033e7fe4747db8c22a95488733a2d/Untitled%205.png)
+![Untitled](img/Untitled5.png)
 
 **Fonte Fantasia cores:**
 
-![Untitled](Exerci%CC%81cios%20Body%20e%20Divs%208f1033e7fe4747db8c22a95488733a2d/Untitled%206.png)
+![Untitled](img/Untitled6.png)
 
 5 - Crie uma página HTML e CSS conforme layout abaixo:
 **Imagem:**
 [https://www.orcnroll.com/wp-content/uploads/2020/04/Imagem-Destacada-1200px-Tiny.jpg](https://www.orcnroll.com/wp-content/uploads/2020/04/Imagem-Destacada-1200px-Tiny.jpg)
 
-![Untitled](Exerci%CC%81cios%20Body%20e%20Divs%208f1033e7fe4747db8c22a95488733a2d/Untitled%207.png)
+![Untitled](img/Untitled7.png)
 
 **body:** 1200px;
 **Parágrafo 1:** Roboto 18px color:#F00A0A

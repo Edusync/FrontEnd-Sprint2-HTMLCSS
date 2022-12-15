@@ -2,30 +2,30 @@
 
 1 - Reproduza a lista abaixo em HTML:
 
-![Untitled](Exerci%CC%81cios%20Tabelas,%20Imagens%20e%20Links%20d144dc7b9b5d41c5969d8e3b21023249/Untitled.png)
+![Untitled](img/Untitled.png)
 
 2 - Reproduza as listas abaixo em HTML:
 
-![Untitled](Exerci%CC%81cios%20Tabelas,%20Imagens%20e%20Links%20d144dc7b9b5d41c5969d8e3b21023249/Untitled%201.png)
+![Untitled](img/Untitled1.png)
 
-![Untitled](Exerci%CC%81cios%20Tabelas,%20Imagens%20e%20Links%20d144dc7b9b5d41c5969d8e3b21023249/Untitled%202.png)
+![Untitled](img/Untitled2.png)
 
 3 - Faça o formulário abaixo em HTML:
 
-![Untitled](Exerci%CC%81cios%20Tabelas,%20Imagens%20e%20Links%20d144dc7b9b5d41c5969d8e3b21023249/Untitled%203.png)
+![Untitled](img/Untitled3.png)
 
 4 - Faça o formulário abaixo em HTML:
 
-![Untitled](Exerci%CC%81cios%20Tabelas,%20Imagens%20e%20Links%20d144dc7b9b5d41c5969d8e3b21023249/Untitled%204.png)
+![Untitled](img/Untitled4.png)
 
 5 - Faça o formulário abaixo em HTML:
 
-![Untitled](Exerci%CC%81cios%20Tabelas,%20Imagens%20e%20Links%20d144dc7b9b5d41c5969d8e3b21023249/Untitled%205.png)
+![Untitled](img/Untitled5.png)
 
 6 - Faça o formulário abaixo em HTML:
 
-![Untitled](Exerci%CC%81cios%20Tabelas,%20Imagens%20e%20Links%20d144dc7b9b5d41c5969d8e3b21023249/Untitled%206.png)
+![Untitled](img/Untitled6.png)
 
 7 - Faça o formulário abaixo em HTML:
 
-![Untitled](Exerci%CC%81cios%20Tabelas,%20Imagens%20e%20Links%20d144dc7b9b5d41c5969d8e3b21023249/Untitled%207.png)
+![Untitled](img/Untitled7.png)

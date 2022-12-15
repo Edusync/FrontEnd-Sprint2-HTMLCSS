@@ -7,14 +7,14 @@
 [https://telepadi.folha.uol.com.br/wp-content/uploads/2020/01/o-auto-da-compadecida-1140x545.jpg](https://telepadi.folha.uol.com.br/wp-content/uploads/2020/01/o-auto-da-compadecida-1140x545.jpg)
 **logo:** [https://studioparkgr.com/images/default-source/logos/celebration.png?sfvrsn=a990cfe2_2](https://studioparkgr.com/images/default-source/logos/celebration.png?sfvrsn=a990cfe2_2)
 
-![Untitled](Exerci%CC%81cios%20Background,%20Float%20e%20Displays%20b134e447489d43c29e98fb3d37f572ed/Untitled.png)
+![Untitled](img/Untitled.png)
 
 **Header:** background-color #000000; **Main:** 1140px;
 **h2:** Roboto 30px color: #FF0101; **Footer:** background-color #FF0101;
 
 2- Crie uma página baseado no layout abaixo:
 
-![Untitled](Exerci%CC%81cios%20Background,%20Float%20e%20Displays%20b134e447489d43c29e98fb3d37f572ed/Untitled%201.png)
+![Untitled](img/Untitled1.png)
 
 **Header:** background-color #F0F3F3; **Main:** 1140px;
 
@@ -24,11 +24,11 @@
 
 **Footer:** background-color #F6511D, altura 250px;
 
-![Untitled](Exerci%CC%81cios%20Background,%20Float%20e%20Displays%20b134e447489d43c29e98fb3d37f572ed/Untitled%202.png)
+![Untitled](img/Untitled2.png)
 
 **Botão entrar:** 80px X 39px color: #8458FF
 
-![Untitled](Exerci%CC%81cios%20Background,%20Float%20e%20Displays%20b134e447489d43c29e98fb3d37f572ed/Untitled%203.png)
+![Untitled](img/Untitled3.png)
 
 **Botão cadastrar:** 109px X 39px color: #8458FF
 
@@ -37,7 +37,7 @@
 [https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Gisele_Bundchen_2018_clear_original_(cropped
 %29.jpg/300px-Gisele_Bundchen_2018_clear_original_%28cropped%29.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Gisele_Bundchen_2018_clear_original_%28cropped%29.jpg/300px-Gisele_Bundchen_2018_clear_original_%28cropped%29.jpg)
 
-![Untitled](Exerci%CC%81cios%20Background,%20Float%20e%20Displays%20b134e447489d43c29e98fb3d37f572ed/Untitled%204.png)
+![Untitled](img/Untitled4.png)
 
 **Header:** background-color #F0F3F3
 **Main:** 1200px
@@ -55,7 +55,7 @@
 
 [https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hortense-de-beauharnais-anne-louis-girodet-de-roucy-triosson.jpg/390px-Hortense-de-beauharnais-anne-louis-girodet-de-roucy-triosson.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hortense-de-beauharnais-anne-louis-girodet-de-roucy-triosson.jpg/390px-Hortense-de-beauharnais-anne-louis-girodet-de-roucy-triosson.jpg)
 
-![Untitled](Exerci%CC%81cios%20Background,%20Float%20e%20Displays%20b134e447489d43c29e98fb3d37f572ed/Untitled%205.png)
+![Untitled](img/Untitled5.png)
 
 **Header e Footer:** background-color #660027
 **Main:** 1200px;
@@ -70,7 +70,7 @@
 
 [https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hortense-de-beauharnais-anne-louis-girodet-de-roucy-triosson.jpg/390px-Hortense-de-beauharnais-anne-louis-girodet-de-roucy-triosson.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hortense-de-beauharnais-anne-louis-girodet-de-roucy-triosson.jpg/390px-Hortense-de-beauharnais-anne-louis-girodet-de-roucy-triosson.jpg)
 
-![Untitled](Exerci%CC%81cios%20Background,%20Float%20e%20Displays%20b134e447489d43c29e98fb3d37f572ed/Untitled%206.png)
+![Untitled](img/Untitled6.png)
 
 **Main:** 1140px
 **h2:** Pinyon Script 72px

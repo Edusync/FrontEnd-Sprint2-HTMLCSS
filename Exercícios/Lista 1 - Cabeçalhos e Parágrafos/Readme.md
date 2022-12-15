@@ -6,8 +6,8 @@
 
 2 - Crie uma página com layout abaixo:
 
-![Untitled](img/Untitled 1.png)
+![Untitled](img/Untitled1.png)
 
 3 - Crie uma página com layout abaixo:
 
-![Untitled](img/Untitled 2.png)
+![Untitled](img/Untitled2.png)
